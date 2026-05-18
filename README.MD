@@ -28,6 +28,8 @@
 ## 🚀 Tech Stack
 
 ### 🖥️ Frontend
+<a href="https://developer.mozilla.org/en-US/docs/Web/HTML" target="_blank"><img src="https://skillicons.dev/icons?i=html&theme=dark" height="45" alt="HTML"/></a>
+<a href="https://developer.mozilla.org/en-US/docs/Web/CSS" target="_blank"><img src="https://skillicons.dev/icons?i=css&theme=dark" height="45" alt="CSS"/></a>
 <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank"><img src="https://skillicons.dev/icons?i=js&theme=dark" height="45" alt="JavaScript"/></a>
 <a href="https://www.typescriptlang.org/" target="_blank"><img src="https://skillicons.dev/icons?i=ts&theme=dark" height="45" alt="TypeScript"/></a>
 <a href="https://react.dev/" target="_blank"><img src="https://skillicons.dev/icons?i=react&theme=dark" height="45" alt="React"/></a>
@@ -38,18 +40,22 @@
 <a href="https://nodejs.org/" target="_blank"><img src="https://skillicons.dev/icons?i=nodejs&theme=dark" height="45" alt="Node.js"/></a>
 <a href="https://vercel.com/" target="_blank"><img src="https://skillicons.dev/icons?i=vercel&theme=dark" height="45" alt="Vercel"/></a>
 <a href="https://render.com/" target="_blank"><img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" height="45" alt="Render"/></a>
+<a href="https://firebase.google.com/" target="_blank"><img src="https://skillicons.dev/icons?i=firebase&theme=dark" height="45" alt="Firebase"/></a>
 
 ### 🗄️ Database
 <a href="https://supabase.com/" target="_blank"><img src="https://skillicons.dev/icons?i=supabase&theme=dark" height="45" alt="Supabase"/></a>
 <a href="https://www.postgresql.org/" target="_blank"><img src="https://skillicons.dev/icons?i=postgres&theme=dark" height="45" alt="PostgreSQL"/></a>
 <a href="https://www.mysql.com/" target="_blank"><img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="45" alt="MySQL"/></a>
 <a href="https://surrealdb.com/" target="_blank"><img src="https://img.shields.io/badge/SurrealDB-FF00A0?style=for-the-badge&logo=surrealdb&logoColor=white" height="45" alt="SurrealDB"/></a>
+<a href="https://www.timescale.com/" target="_blank"><img src="https://img.shields.io/badge/TimescaleDB-FDB515?style=for-the-badge&logo=timescale&logoColor=black" height="45" alt="TimescaleDB"/></a>
+<a href="https://www.influxdata.com/" target="_blank"><img src="https://img.shields.io/badge/InfluxDB-22ADF6?style=for-the-badge&logo=influxdb&logoColor=white" height="45" alt="InfluxDB"/></a>
 
 ### 🤖 AI / ML
 <a href="https://www.python.org/" target="_blank"><img src="https://skillicons.dev/icons?i=python&theme=dark" height="45" alt="Python"/></a>
 <a href="https://pytorch.org/" target="_blank"><img src="https://skillicons.dev/icons?i=pytorch&theme=dark" height="45" alt="PyTorch"/></a>
 <a href="https://www.tensorflow.org/" target="_blank"><img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="45" alt="TensorFlow"/></a>
 <a href="https://scikit-learn.org/" target="_blank"><img src="https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white" height="45" alt="scikit-learn"/></a>
+<a href="https://pandas.pydata.org/" target="_blank"><img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" height="45" alt="Pandas"/></a>
 
 ### 🔌 IoT & Automation
 <a href="https://www.arduino.cc/" target="_blank"><img src="https://skillicons.dev/icons?i=arduino&theme=dark" height="45" alt="Arduino"/></a>
@@ -57,6 +63,7 @@
 <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" target="_blank"><img src="https://skillicons.dev/icons?i=cs&theme=dark" height="45" alt="C#"/></a>
 <a href="https://mqtt.org/" target="_blank"><img src="https://img.shields.io/badge/MQTT-660066?style=for-the-badge&logo=mqtt&logoColor=white" height="45" alt="MQTT"/></a>
 <a href="https://nodered.org/" target="_blank"><img src="https://img.shields.io/badge/Node--RED-8F0000?style=for-the-badge&logo=nodered&logoColor=white" height="45" alt="Node-RED"/></a>
+<a href="https://inductiveautomation.com/ignition/" target="_blank"><img src="https://img.shields.io/badge/Ignition_Designer-E8212B?style=for-the-badge&logoColor=white" height="45" alt="Ignition Designer"/></a>
 
 ### ☁️ Cloud & DevOps
 <a href="https://git-scm.com/" target="_blank"><img src="https://skillicons.dev/icons?i=git&theme=dark" height="45" alt="Git"/></a>
